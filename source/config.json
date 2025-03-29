@@ -1,0 +1,10 @@
+{
+    "MailServer": "127.0.0.1",
+    "SMTP": 65432,
+    "POP3": 33333,
+    "Autoload": 5, 
+    "Project": ["ahihi@testing.com", "ahuu@testing.com"],
+    "Important": ["urgent", "ASAP"],
+    "Work": ["report", "meeting"],
+    "Spam": ["virus", "hack", "crack"]
+}
